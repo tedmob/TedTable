@@ -1,0 +1,3 @@
+TedTable is a jQuery plugin that simplify your work with tables.
+It's very simple: you set the header elements and the data to display in the table and the plugin will create automatically a table with pagination, a select box for the number of rows to display, a search box for every column and some optional filters for each column.
+The plugin is fast and light and it will be support for a long time, I hope.
